@@ -8,14 +8,14 @@ the Android library for convert single Image or more to File Pdf
 - Add one or more  Photos on one Page
 - Convert Images from  Bitmap , Intent.data ,File , File Source to File Pdf
 - min SDK 19
-- [Demo](https://choosealicense.com/licenses/mit/) project by Kotlin
+- [Demo](https://github.com/kerolsafififawzy/Image-To-Pdf-Kotlin) project by Kotlin
 
 
 ## Sample App
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
-     height="70">](https://play.google.com/store/apps/details?id=com.stealthcotper.networktools)
+     height="70">]()
 
 ## How To Use
 
