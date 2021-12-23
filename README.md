@@ -169,6 +169,8 @@ dependencies {
 imageToPdf.Cancel()
 
 ```
-
+### Contact
+- kerolsdeveloper@gmail.com
+	
 
 
