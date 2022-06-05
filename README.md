@@ -33,7 +33,7 @@ allprojects {
 - Add gradle dependency:
 ```gradle
 dependencies {
-		    implementation 'com.github.kerolsafififawzy:Image-To-PdfConverter:1.0.2'
+		    implementation 'com.github.kerolsafififawzy:Image-To-PdfConverter:1.0.3'
 	}
 ```
 - Add permission
