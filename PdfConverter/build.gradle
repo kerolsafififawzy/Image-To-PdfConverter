@@ -15,7 +15,7 @@ afterEvaluate {
 
                 artifactId = "pdfconverter"
 
-                version = '1.0.2'
+                version = '1.0.3'
 
             }
 
@@ -31,7 +31,7 @@ android {
         minSdk 19
         targetSdk 31
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.3"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"

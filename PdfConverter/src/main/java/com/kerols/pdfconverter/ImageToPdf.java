@@ -55,15 +55,15 @@ public class ImageToPdf {
     private int Right;
     private int ImageHeight;
     private int ImageWidth;
-    private final int height = 1010;
-    private final int width = 714;
+    private int height = 1010;
+    private int width = 714;
     private int reqW = width;
     private int reqH ;
     private int Pro = 0;
     private Context context = null;
     private boolean Cancel;
     private int ImagesCount = 0;
-    private final PdfPage pdfPage;
+    private PdfPage pdfPage;
     private int pagenum ;
     private String ErrorMessage;
 
